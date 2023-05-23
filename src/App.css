@@ -1,0 +1,16 @@
+input,button{
+  min-width: 400px;
+  display: block;
+  padding: 6px;
+  line-height: 1.4;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button{
+  background-color: #1c64f2;
+  color: #ffffff;
+}
+.error{
+  margin: 15px;
+  color:tomato;
+}
